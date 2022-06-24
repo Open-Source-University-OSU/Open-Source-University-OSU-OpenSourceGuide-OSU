@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "开源的定义.md",
+            "file": "学术开源.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "开源的定义.md",
+                "file": "学术开源.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,12 +89,15 @@
   },
   "active": "19c0c00315b48832",
   "lastOpenFiles": [
-    "开源的定义.md",
-    "开源历史.md",
-    "开源设施与工具.md",
-    "[.md",
     "学术开源.md",
+    "开源原理及文化.md",
+    "开源现代发展.md",
+    "开源设施与工具.md",
+    "开源历史.md",
+    "开源的定义.md",
     "建设指南.md",
-    "README.md"
+    "README.md",
+    "开源文化及社区.md",
+    "[.md"
   ]
 }
